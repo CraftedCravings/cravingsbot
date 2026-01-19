@@ -1,0 +1,56 @@
+{
+  "cold_coffee": [
+    { "id": 101, "name": "Classic Cold Coffee (Small)", "price": 79 },
+    { "id": 102, "name": "Classic Cold Coffee (Large)", "price": 99 },
+    { "id": 103, "name": "Hazelnut Cold Coffee (Small)", "price": 109 },
+    { "id": 104, "name": "Hazelnut Cold Coffee (Large)", "price": 129 },
+    { "id": 105, "name": "Vanilla Coffee (Small)", "price": 119 },
+    { "id": 106, "name": "Vanilla Coffee (Large)", "price": 139 },
+    { "id": 107, "name": "Mocha Coffee (Small)", "price": 129 },
+    { "id": 108, "name": "Mocha Coffee (Large)", "price": 149 }
+  ],
+  "shakes": [
+    { "id": 201, "name": "The Ultimate Creamy", "price": 149 },
+    { "id": 202, "name": "Kit Kat Shake (Special)", "price": 149 },
+    { "id": 203, "name": "Oreo Shake (Special)", "price": 139 },
+    { "id": 204, "name": "Chocolate Shake (with ice cream)", "price": 129 },
+    { "id": 205, "name": "Chocolate Shake (without ice cream)", "price": 99 },
+    { "id": 206, "name": "Strawberry Shake (with ice cream)", "price": 129 },
+    { "id": 207, "name": "Strawberry Shake (without ice cream)", "price": 99 }
+  ],
+  "pizza": [
+    { "id": 301, "name": "Margherita Pizza (Medium 9”)", "price": 109 },
+    { "id": 302, "name": "Margherita Pizza (Large 12”)", "price": 149 },
+    { "id": 303, "name": "Farmhouse Pizza (Medium 9”)", "price": 129 },
+    { "id": 304, "name": "Farmhouse Pizza (Large 12”)", "price": 159 },
+    { "id": 305, "name": "Mania Pizza (Medium 9”)", "price": 99 },
+    { "id": 306, "name": "Mania Pizza (Large 12”)", "price": 139 },
+    { "id": 307, "name": "Paneer Tikka Pizza (Medium 9”)", "price": 149 },
+    { "id": 308, "name": "Paneer Tikka Pizza (Large 12”)", "price": 189 },
+    { "id": 309, "name": "Extra Cheese", "price": 20 }
+  ],
+  "maggie": [
+    { "id": 401, "name": "Butter Maggie", "price": 69 },
+    { "id": 402, "name": "Butter Veggie Maggie", "price": 79 },
+    { "id": 403, "name": "Masala Maggie (Plain)", "price": 59 },
+    { "id": 404, "name": "Cheese Maggie", "price": 89 },
+    { "id": 405, "name": "Loaded Vegetable Maggie", "price": 89 },
+    { "id": 406, "name": "Extra Cheese", "price": 20 }
+  ],
+  "ice_tea": [
+    { "id": 501, "name": "Lemon Ice Tea", "price": 79 },
+    { "id": 502, "name": "Peach Ice Tea", "price": 79 }
+  ],
+  "hot_beverages": [
+    { "id": 601, "name": "Coffee", "price": 49 },
+    { "id": 602, "name": "Tea", "price": 29 }
+  ],
+  "sandwiches": [
+    { "id": 701, "name": "Veg Grilled Sandwich", "price": 79 },
+    { "id": 702, "name": "Cold Sandwich", "price": 59 },
+    { "id": 703, "name": "Paneer Tikka Sandwich", "price": 99 },
+    { "id": 704, "name": "Chilli Garlic Sandwich", "price": 89 },
+    { "id": 705, "name": "Cheese Corn Sandwich", "price": 95 },
+    { "id": 706, "name": "Extra Cheese", "price": 20 }
+  ]
+}
